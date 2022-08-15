@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.COMPETICAO_MODALIDADES = void 0;
+var COMPETICAO_MODALIDADES;
+(function (COMPETICAO_MODALIDADES) {
+    COMPETICAO_MODALIDADES["CEM"] = "100M_RASOS";
+    COMPETICAO_MODALIDADES["DARDO"] = "LANCAMENTO_DE_DARDO";
+})(COMPETICAO_MODALIDADES = exports.COMPETICAO_MODALIDADES || (exports.COMPETICAO_MODALIDADES = {}));
+//# sourceMappingURL=COMPETICAO_MODALIDADES.js.map

@@ -1,0 +1,33 @@
+POST http://localhost:3003/competicao/create
+Content-Type: application/json
+
+{
+    "name": "segunda rodada",
+    "modalidade": "100M_RASOS"
+}
+
+###
+
+POST http://localhost:3003/resultado/register
+Content-Type: application/json
+
+{
+    "competicao": "segunda Rodada",
+    "atleta": "ruan",
+    "value": 8,
+    "unidade": "a"
+}
+
+###
+
+PUT http://localhost:3003/competicao/finish
+Content-Type: application/json
+
+{
+    "competicao": "segunda rodada"
+}
+
+###
+
+GET http://localhost:3003/ranking/Primeira_Rodada_100M
+Content-Type: application/json
