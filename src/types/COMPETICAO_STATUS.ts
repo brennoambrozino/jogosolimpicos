@@ -1,0 +1,4 @@
+export enum COMPETICAO_STATUS {
+    ABERTA = "ABERTA",
+    FINALIZADA = "FINALIZADA"
+}
