@@ -26,7 +26,7 @@ Tecnologias utilizadas: Jest, Node.JS, Knex, TypeScript, MySQL, SQL, Git e Githu
 
 - [x] **Criar uma Competição**
 
-- [x] **Cadastrar resultados para uma competição (todos os campos são obrigatórios)n**
+- [x] **Cadastrar resultados para uma competição (todos os campos são obrigatórios)**
 
 - [x] **Finalizar uma competição**
 
